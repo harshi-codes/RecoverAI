@@ -333,8 +333,7 @@ recoverai/
 │   ├── package.json          # Frontend dependencies & scripts
 │   └── vite.config.ts        # Vite configuration
 ├── docs/
-│   ├── ARCHITECTURE.md       # Technical architecture specification
-│   └── DEMO_SCRIPT.md        # Step-by-step 5-minute judge demo guide
+│   └── ARCHITECTURE.md       # Technical architecture specification
 ├── .gitignore                # Environment & build exclusions
 ├── package.json              # Workspace script runner
 └── README.md                 # Project README documentation
@@ -481,8 +480,6 @@ Follow this 5-minute walkthrough to experience RecoverAI:
 5. **Demo Scenarios B, D, E, F**: Verify how low probability, contact limits, opt-outs, and idempotency block execution.
 6. **Policy & Safety View**: Review active policy guardrails.
 7. **Model Info**: View ML performance metrics and feature importances.
-
-> *For the complete script, see [docs/DEMO_SCRIPT.md](docs/DEMO_SCRIPT.md).*
 
 ---
 
