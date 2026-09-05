@@ -1,0 +1,22 @@
+[
+  "amount",
+  "customer_previous_success_rate",
+  "num_previous_failures",
+  "retry_count",
+  "customer_lifetime_value",
+  "time_since_failure_hours",
+  "is_subscription",
+  "checkout_duration_sec",
+  "payment_method_card",
+  "payment_method_netbanking",
+  "payment_method_upi",
+  "payment_method_wallet",
+  "failure_code_BANK_BLOCK",
+  "failure_code_CVV_MISMATCH",
+  "failure_code_DO_NOT_HONOR",
+  "failure_code_EXPIRED_CARD",
+  "failure_code_INSUFFICIENT_FUNDS",
+  "failure_code_NETWORK_ERROR",
+  "failure_code_PAYMENT_FAILED",
+  "failure_code_USER_DROP"
+]

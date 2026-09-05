@@ -1,0 +1,13 @@
+{
+  "name": "recoverai",
+  "private": true,
+  "version": "1.0.0",
+  "description": "RecoverAI - Revenue Recovery Intelligence Platform for Razorpay",
+  "scripts": {
+    "dev": "npm --prefix frontend run dev",
+    "build": "npm --prefix frontend run build",
+    "preview": "npm --prefix frontend run preview",
+    "backend": "cd backend && uvicorn app.main:app --reload",
+    "test": "cd backend && python3 -m pytest app/tests/ -v"
+  }
+}
